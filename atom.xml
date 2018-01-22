@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://heartsay2018.github.io/"/>
-  <updated>2018-01-22T06:46:50.730Z</updated>
+  <updated>2018-01-22T06:54:15.557Z</updated>
   <id>http://heartsay2018.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端学习路线</title>
+    <link href="http://heartsay2018.github.io/2018/01/22/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+    <id>http://heartsay2018.github.io/2018/01/22/前端学习路线/</id>
+    <published>2018-01-22T06:50:24.000Z</published>
+    <updated>2018-01-22T06:54:15.557Z</updated>
+    
+    <content type="html"><![CDATA[<p>前端开发入门学习有：HTML、CSS、JavaScript（简称JS）这三个部分。所以在学习之前我们需要先明确三个概念：</p><p>HTML——内容层，它的作用是表示一个HTML标签在页面里是个什么角色。<br>CSS——样式层，它的作用是表示一块内容以什么样的样式（字体、大小、颜色、宽高等）显示。<br>JS——行为层，它的作用是当用户触发某些行为时，会给内容和样式带来什么样的改变。</p><p>一、HTML，CSS部分<br>HTML/CSS初学，就照着<a href="http://www.w3cschool.cn/的实验做，把http://www.w3cschool.cn/index-6.html和http://www.w3cschool.cn/index-7.html两套做完了就入门了，" target="_blank" rel="noopener">http://www.w3cschool.cn/的实验做，把http://www.w3cschool.cn/index-6.html和http://www.w3cschool.cn/index-7.html两套做完了就入门了，</a></p><p>入门之后，学习CSS的精华，即布局，推荐李炎恢的教学视频，布局这一章：<a href="http://edu.51cto.com/lesson/id-14895.html第27章，如果觉得不够，需要实战，则再学习接下来的28，29章。注意，这时候一定要老师讲一块代码，自己就要照着实现一次，切勿只看不做。" target="_blank" rel="noopener">http://edu.51cto.com/lesson/id-14895.html第27章，如果觉得不够，需要实战，则再学习接下来的28，29章。注意，这时候一定要老师讲一块代码，自己就要照着实现一次，切勿只看不做。</a></p><p>CSS还有一个精华部分就是命名规范，找几个著名网站（比如豆瓣、网易新闻）这类，研究它们的命名规范，我这里，有一个现成的命名规范可供学习（需要登录evernote查看）：<a href="https://www.evernote.com/shard/s168/sh/7f89cc57-cab2-4712-b61b-9fde25e3ef51/d01c8e34ef05373ec06c3b2f7cfaba82/res/e0b9963b-ba7a-441a-8462-8f87c48e4cda.jpg?resizeSmall&amp;width=832" target="_blank" rel="noopener">https://www.evernote.com/shard/s168/sh/7f89cc57-cab2-4712-b61b-9fde25e3ef51/d01c8e34ef05373ec06c3b2f7cfaba82/res/e0b9963b-ba7a-441a-8462-8f87c48e4cda.jpg?resizeSmall&amp;width=832</a></p><p>学习完成后就是一个较为熟练的HTML/CSS使用者了.这时候如果想继续深入学习相关类库和框架，推荐Sass和Compass，推荐两篇阮一峰的博客：<a href="http://www.ruanyifeng.com/blog/2012/06/sass.htmlhttp://www.ruanyifeng.com/blog/2012/11/compass.html" target="_blank" rel="noopener">http://www.ruanyifeng.com/blog/2012/06/sass.htmlhttp://www.ruanyifeng.com/blog/2012/11/compass.html</a></p><p>二、JavaScript部分<br>初学者推荐看视频：<a href="http://edu.51cto.com/course/course_id-166-page-1.html，特别注意JavaScript的OOP写法（重点，可多看几遍），以及闭包、原型链，异步编程部分（次重点），前者写项目都在用，后者涉及JS这个语言本质特点。" target="_blank" rel="noopener">http://edu.51cto.com/course/course_id-166-page-1.html，特别注意JavaScript的OOP写法（重点，可多看几遍），以及闭包、原型链，异步编程部分（次重点），前者写项目都在用，后者涉及JS这个语言本质特点。</a></p><p>然后需要学习JS和HTML/CSS在浏览器下的调试方法，推荐用Google Chrome下的chrome developer tools调试，可以看这个视频学习：<a href="http://happycasts.net/episodes/40" target="_blank" rel="noopener">http://happycasts.net/episodes/40</a></p><p>前端学习路线：<br><a href="http://www.cnblogs.com/w3cschool/p/6527337.html" target="_blank" rel="noopener">http://www.cnblogs.com/w3cschool/p/6527337.html</a><br>详细<br><a href="http://blog.csdn.net/u011047006/article/details/52597178" target="_blank" rel="noopener">http://blog.csdn.net/u011047006/article/details/52597178</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前端开发入门学习有：HTML、CSS、JavaScript（简称JS）这三个部分。所以在学习之前我们需要先明确三个概念：&lt;/p&gt;
+&lt;p&gt;HTML——内容层，它的作用是表示一个HTML标签在页面里是个什么角色。&lt;br&gt;CSS——样式层，它的作用是表示一块内容以什么样的样式（字
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>菜鸟JQ教程</title>
